@@ -1,1 +1,1 @@
-/home/james/learnCS/rust/hello/target/debug/main: /home/james/learnCS/rust/hello/src/bin/main.rs /home/james/learnCS/rust/hello/src/lib.rs
+/Users/ryojisimizu/rust/hello/target/debug/main: /Users/ryojisimizu/rust/hello/src/bin/main.rs /Users/ryojisimizu/rust/hello/src/lib.rs

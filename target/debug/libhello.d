@@ -1,1 +1,1 @@
-/home/james/learnCS/rust/hello/target/debug/libhello.rlib: /home/james/learnCS/rust/hello/src/lib.rs
+/Users/ryojisimizu/rust/hello/target/debug/libhello.rlib: /Users/ryojisimizu/rust/hello/src/lib.rs
